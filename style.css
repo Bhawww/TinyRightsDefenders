@@ -1,0 +1,15 @@
+.gradient-background {
+    background: linear-gradient(300deg, #A8DF8E, #F3FDE8, #FFE5E5);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+  
+  .module{
+    background-image: url("./images/Module\ adventures.jpg");
+  }
+  .test{
+    font-weight: 500;
+}
+
+
+ 
